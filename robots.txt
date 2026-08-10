@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-sloty-i-ruletka-s-vyvodom-6ae6f.github.io
+Sitemap: https://kazino-sloty-i-ruletka-s-vyvodom-6ae6f.github.io/sitemap.xml
